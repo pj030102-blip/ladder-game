@@ -1,0 +1,6 @@
+{
+  "name": "캠퍼스 사다리타기 - 대학생 운명 결정기",
+  "description": "팀플 역할 분담부터 밥약, 커피 내기, 술자리 벌칙까지! 대학생을 위한 애니메이션 사다리타기 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
